@@ -17,3 +17,10 @@ cd /tmp ; wget https://update.xui.one/XUI_1.5.13_UPDATE.zip</br>
 apt-get install unzip</br>
 unzip XUI_1.5.13_UPDATE.zip</br>
 ./update</br>
+
+Update for Proxy:</br>
+Download proxy.tar.gz here:</br>
+https://update.xui.one/proxy.tar.gz</br>
+
+And overwrite the version in:</br>
+/home/xui/bin/install/
